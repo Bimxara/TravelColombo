@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "King Sri Wickrama Rajasinghe Prison Cell",
+        "ImageName": "king-sri-wickrama-rajasinghe.jpg",
+        "Address": "Bank of Ceylon Mawatha | Colombo 1, Colombo, Sri Lanka",
+        "Rating": "3"
+    },
+    {
+        "Name": "Wolvendaal Church",
+        "ImageName": "filename-p3284024-jpg.jpg",
+        "Address": "Wolfendhal Street, Colombo 01100, Sri Lanka",
+        "Rating": "4"
+    },
+    {
+        "Name": "Old Town Hall",
+        "ImageName": "old-town-hall.jpg",
+        "Address": "Fort, Colombo, Sri Lanka",
+        "Rating": "3"
+    },
+    {
+        "Name": "Bandaranaike Memorial International Conference Hall",
+        "ImageName": "stunning-architecture.jpg",
+        "Address": "Bauddhaloka Mawatha | Near China Embassy, Colombo 00700, Sri",
+        "Rating": "4"
+    },
+    {
+        "Name": "Paramadharmawardhanaramaya",
+        "ImageName": "",
+        "Address": "No 135 Raththanapitiya, Boralesgamuwa, Sri Lanka., Boralesga",
+        "Rating": "4"
+    },
+    {
+        "Name": "Colombo Fort",
+        "ImageName": "colombo-with-berei-lake.jpg",
+        "Address": "Galle Buck, Colombo, Sri Lanka",
+        "Rating": "4"
+    }
+]
